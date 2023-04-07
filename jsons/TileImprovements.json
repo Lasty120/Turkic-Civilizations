@@ -1,7 +1,7 @@
 [
 {
   "name": "Yurt",
-  "terrainsCanBeBuiltOn": ["Plains"]
+  "terrainsCanBeBuiltOn": ["Grassland", "Plains", "Desert"]
   "food": 1,
   "turnsToBuild": 8,
   "techRequired": "Trapping",
