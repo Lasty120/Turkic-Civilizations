@@ -1,13 +1,12 @@
 [
 {
-  "name": "Kurgan",
+  "name": "Yurt",
   "terrainsCanBeBuiltOn": ["Plains"]
-  "culture": 2,
-  "gold": 1,
+  "food": 1,
   "turnsToBuild": 8,
   "techRequired": "Trapping",
-  "uniques": ["[+1 Culture] <after discovering [Guilds]>", "[+3 Culture] <after discovering [Archaeology]>", "[+1 Food] <after discovering [Civil Service]>", "[+1 Gold] for each adjacent [Kurgan]"],
-  "uniqueTo": "Scythia"
+  "uniques": [ ],
+  "uniqueTo": "Kazakhstan"
 },
 {
   "name": "Islamic Mausoleum",
