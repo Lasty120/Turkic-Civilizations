@@ -17,7 +17,7 @@
   "outerColor": [0, 148, 222],
   "innerColor": [255, 255, 255],
   "uniqueName": "Zheti Zhargy"
-//  "uniqueText": "+1 [Culture] from each one recource Horse",
+  "uniqueText": "+1 [Culture] from each one recource Horse",
   "uniques": ["[+1 Culture] <when above [1] [Horses]>","[+1 Culture] <when above [2] [Horses]>","[+1 Culture] <when above [3] [Horses]>",
   "[+1 Culture] <when above [4] [Horses]>","[+1 Culture] <when above [5] [Horses]>","[+1 Culture] <when above [6] [Horses]>",
   "[+1 Culture] <when above [7] [Horses]>","[+1 Culture] <when above [8] [Horses]>","[+1 Culture] <when above [9] [Horses]>",
@@ -137,7 +137,8 @@
   "outerColor": [14, 133, 65],
   "innerColor": [255, 255, 255],
   "defeated": "I did very big job for my people, now, I need to rest. May the earth mother bless your lands as she did mine",
-  "uniqueName": "Great projects",
+  "uniqueName": "Great Projects",
+  "uniqueText": "Unique projects upon entering each era",
   "uniques": ["Provides [1] [Turkmenistan bonus] <starting from the [Ancient era]>","Provides [1] [Turkmenistan bonus] <starting from the [Classical era]>",
    "Provides [1] [Turkmenistan bonus] <starting from the [Medieval era]>","Provides [1] [Turkmenistan bonus] <starting from the [Renaissance era]>","Provides [1] [Turkmenistan bonus] <starting from the [Industrial era]>",
   "Provides [1] [Turkmenistan bonus] <starting from the [Modern era]>","Provides [1] [Turkmenistan bonus] <starting from the [Atomic era]>","Provides [1] [Turkmenistan bonus] <starting from the [Information era]>"]
