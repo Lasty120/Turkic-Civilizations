@@ -187,7 +187,7 @@
   "Gain [150]-[250] [Gold] <in cities with at least [25] [Population]>","Gain [150]-[250] [Gold] <in cities with at least [30] [Population]>",
   "Gain [150]-[250] [Gold] <in cities with at least [35] [Population]>","Gain [150]-[250] [Gold] <in cities with at least [40] [Population]>",
   "Gain [150]-[250] [Gold] <in cities with at least [45] [Population]>","Gain [150]-[250] [Gold] <in cities with at least [50] [Population]>",
-  "+1 [Gold] per [2] population [in all cities]"],
+  "[+1 Gold] per [2] population [in all cities]"],
   "cities": ["Bukhara", "Samarkand", "Miankal", "Kermine", "Karshi", "Huzar", "Kerki", "Chardjou", "Shahrisabz", "Gissar", "Fergana"]
 },
 {
@@ -207,26 +207,28 @@
   "innerColor": [247, 240, 109],
   "defeated": "No! This cannot be truth! I cannot beleive it!",
   "uniqueName": "Terror and Fear",
-  "uniques": ["[+2 Culture] per [1] population [in annexed cities]", "[+1 Happiness] per [3] population [in annexed cities]"],
+  "uniques": ["[+2 Culture] per [1] population [in annexed cities]", "[+1 Happiness] per [3] population [in annexed cities]", "[+1 Happiness] <upon conquering a city>"],
   "cities": ["Samarkand", "Herat", "Margilan", "Fergana", "Chust", "Namangan", "Andizhan", "Angren", "Almalyk", "Hudzhand", "Osh", "Batken", "Aidarken", "Karakendzha"]
 },
 {
   "name": "Karakhanids",
   "leaderName": "Ali-Ibn-Suleiman",
   "adjective": ["Karakhanid"],
-  "prefferedVictoryType": "Cultural",
-  "introduction": "Hello, i am leader of Karakhanid people. Who are you?",
+  "prefferedVictoryType": "Scientific",
+  "introduction": "Hello, I am leader of Karakhanid people - Aki-Ibn-Suleiman. How are you?",
   "startIntroPart1": " ",
   "startIntroPatt2": " ",
-  "neutralHello": "Hello",
+  "neutralHello": "Hello, how are you?",
   "hateHello": "Oh, this is you",
-  "attacked": "Wow, you just attacked me? You deside to destroy your country.",
-  "declaringWar": "Sorry, but i deside this way",
-  "tradeRequest": "I think, you agree?",
-  "outerColor": [232, 168, 0]
-  "innerColor": [255, 255, 255]
-  "uniqueName": "Love for Motherland",
-  "uniques": ["[+30]% Strength <when fighting in [Friendly Land] tiles>"]
+  "attacked": "Wow, you attacked ME? You overestimated yourself",
+  "declaringWar": "Sorry, but I deside this way",
+  "tradeRequest": "What is your opinion about this?",
+  "outerColor": [232, 168, 0],
+  "innerColor": [255, 255, 255],
+  "defeated": "My people will remember me. I know it",
+  "uniqueName": "Pearl of Pearls",
+  "uniqueText": "Free Techolody upon gaining Great Person",
+  "uniques": ["Free Techolody <upon gaining [Great Person]>"]
   "cities": ["Kashgar", "Balasagun", "Karakorum", "Uzgent", "Samarkand", "Uqturpan", "Bukhara", "Kokand", "Karasahr", "Yarkant", "Hotan", "Olmalyq", "Hami"]
 },
 {
@@ -234,7 +236,7 @@
   "leaderName": "Juchi",
   "adjective": ["Golden Hordy"],
   "prefferedVictoryType": "Domination",
-  "introduction": "Hello, my friend, I am Juchi, Greatest leader of Goldern Horde. Who are you?",
+  "introduction": "Hello, my friend, I am Juchi, Greatest leader of Goldern Horde. Nice to meet you",
   "startIntroPart1": " ",
   "startIntroPatt2": " ",
   "neutralHello": "Hello",
@@ -242,10 +244,11 @@
   "attacked": "My vassal, you decide lose your freedom?",
   "declaringWar": "Time to pay tribute!",
   "tradeRequest": "I calculate that it is beneficial for you",
-  "outerColor": [240, 240, 240]
-  "innerColor": [255, 0, 0]
+  "outerColor": [240, 240, 240],
+  "innerColor": [255, 0, 0],
+  "defeated": "No! This cannot be truth! I cannot beleive it!",
   "uniqueName": "Vassal's tribute",
-  "uniques": ["Earn [75]% of killed [Military] unit's [Cost] as [Gold]", "Earn [25]% of killed [Military] unit's [Cost] as [Culture]"]
+  "uniques": ["Earn [15]% of killed [Military] unit's [Cost] as [Gold]", "[-10]% Unhappiness from [Population] [in annexed cities]"]
   "cities": ["Saray-Batu", "Bolgar", "Saray-Berke", "Kazan", "Hadji-Tarhan", "Solhat", "Uvek", "Saraychik", "Yassy", "Ak-Kerman", "Madjar", "Urgench", "Sygnak", "Derbent", "Djend", "Isker", "Chingi-Tura"]
 }
 ]
