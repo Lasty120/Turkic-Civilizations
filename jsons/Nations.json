@@ -179,19 +179,21 @@
   "outerColor": [0, 151, 48],
   "innerColor": [249, 209, 0],
   "defeated": "Goodbye",
-  "uniqueName": "Money system",
-  "uniqueText": "Gain 150-250 [Gold] upon city reaches each 5 population",
+  "uniqueName": "Strength in Justice",
+  "uniqueText": "[Gain 150-250 [Gold] upon city reaches each 5 population]
+  [+1 [Gold] per 2 population in all cities]",
   "uniques": ["Gain [150]-[250] [Gold] <in cities with at least [5] [Population]>","Gain [150]-[250] [Gold] <in cities with at least [10] [Population]>",
   "Gain [150]-[250] [Gold] <in cities with at least [15] [Population]>","Gain [150]-[250] [Gold] <in cities with at least [20] [Population]>",
   "Gain [150]-[250] [Gold] <in cities with at least [25] [Population]>","Gain [150]-[250] [Gold] <in cities with at least [30] [Population]>",
   "Gain [150]-[250] [Gold] <in cities with at least [35] [Population]>","Gain [150]-[250] [Gold] <in cities with at least [40] [Population]>",
-  "Gain [150]-[250] [Gold] <in cities with at least [45] [Population]>","Gain [150]-[250] [Gold] <in cities with at least [50] [Population]>",],
+  "Gain [150]-[250] [Gold] <in cities with at least [45] [Population]>","Gain [150]-[250] [Gold] <in cities with at least [50] [Population]>",
+  "+1 [Gold] per [2] population [in all cities]"],
   "cities": ["Bukhara", "Samarkand", "Miankal", "Kermine", "Karshi", "Huzar", "Kerki", "Chardjou", "Shahrisabz", "Gissar", "Fergana"]
 },
 {
   "name": "Timurids",
-  "leaderName": "Tamerlan",
-  "adjective": ["Kokand"],
+  "leaderName": "Timur",
+  "adjective": ["Timurid"],
   "prefferedVictoryType": "Cultural",
   "introduction": "It's a honor, to talk with you. Greetings, I am Tamerlan - leader of Timurids",
   "startIntroPart1": " ",
@@ -201,9 +203,10 @@
   "attacked": "You think too much of yourself",
   "declaringWar": "Another land will be attached to me",
   "tradeRequest": "I hope you agree this",
-  "outerColor": [115, 158, 69]
-  "innerColor": [247, 240, 109]
-  "uniqueName": "Great conqueror",
+  "outerColor": [115, 158, 69],
+  "innerColor": [247, 240, 109],
+  "defeated": "No! This cannot be truth! I cannot beleive it!",
+  "uniqueName": "Terror and Fear",
   "uniques": ["[+2 Culture] per [1] population [in annexed cities]", "[+1 Happiness] per [3] population [in annexed cities]"],
   "cities": ["Samarkand", "Herat", "Margilan", "Fergana", "Chust", "Namangan", "Andizhan", "Angren", "Almalyk", "Hudzhand", "Osh", "Batken", "Aidarken", "Karakendzha"]
 },
