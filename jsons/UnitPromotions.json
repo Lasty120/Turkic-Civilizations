@@ -1,0 +1,10 @@
+[
+{
+  "name": "Fire ability",
+  "uniques": ["[+50]% Strength <vs [Siege] units>"]
+},
+{
+  "name": "Kokand ability",
+  "uniques": ["[+25]% Strength <vs [Sword] units>", "[+25]% Strength <vs [Archery] units>", "[+25]% Strength <vs [Siege] units>"]
+}
+]

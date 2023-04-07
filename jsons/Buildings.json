@@ -1,0 +1,121 @@
+[
+{
+  "name": "Biev Courthouse",
+  "uniqueTo": "Kazakh Khanate",
+  "culture": 3,
+  "cost": 100,
+  "maintenance": 1,
+  "requiredTech": "Mathematics"
+  "uniques": ["[+25]% [Culture] [in this city]", "[+25]% [Happiness] [in this city]", "[+1 Happiness] from every [Luxury resource]"]
+}
+{
+  "name": "Baikonyr",
+  "uniqueTo": "Kazakhstan",
+  "requiredTech": "Radar",
+  "maintenance": 3,
+  "uniques": ["[+25]% Production <when constructing [Spaceship part] units> [in this city]"],
+  "production": 4,
+},
+{
+  "name": "Gathering of nomads",
+  "uniqueTo": "Kyrgyzstan",
+  "culture": 5,
+  "cost": 210,
+  "isNationalWonder": true,
+  "requiredTech": "Printing Press",
+  "uniques": ["Provides [6] [Horses]", "[+1 Culture] from every [Horses]"]
+},
+{
+  "name": "Tourist City",
+  "uniqueTo": "Turkmenistan",
+  "gold": 4,
+  "cost": 600,
+  "isNationalWonder": true,
+  "requiredTech": "Radio",
+  "uniques": ["[+1 Gold] from all [Culture] buildings", "[+1 Gold] from all [Faith] buildings", "[+1 Gold] from all [Science] buildings", "[+1 Gold] from all [Gold] buildings", "[+4 Gold] from every [Wonder]", "Creates a [Tourist City tile] improvement on a specific tile"]
+},
+{
+  "name": "project limit",
+  "cost": 0,
+  "uniques": ["Will not be displayed in Civilopedia", "Unbuildable", "Unsellable", "Destroyed when the city is captured"]
+},
+{
+  "name": "Food project",
+  "uniqueTo": "Turkmenistan",
+  "food": 6,
+  "cost": 400,
+  "isNationalWonder": true,
+  "maintenance": 3,
+  "requiredTech": "Electricity",
+  "uniques": ["[50]% Food is carried over after population increases [in this city]", "[+20]% [Happiness]", "Gain a free [project limit] [in all cities]", "Only available <in cities without a [project limit]>", "Unsellable", "Will not be displayed in Civilopedia"]
+},
+{
+  "name": "Military project",
+  "uniqueTo": "Turkmenistan",
+  "maintenance": 3,
+  "cost": 400,
+  "isNationalWonder": true,
+  "requiredTech": "Electricity",
+  "uniques": ["Gain a free [project limit] [in all cities]", "Only available <in cities without a [project limit]>", "Unsellable", "Will not be displayed in Civilopedia", "All newly-trained [non-air] units [in all cities] receive the [Blitz] promotion", "[+15]% Production when constructing [Siege] units [in all cities]"]
+},
+{
+  "name": "Scintific project",
+  "uniqueTo": "Turkmenistan",
+  "maintenance": 3,
+  "science": 4,
+  "cost": 400,
+  "isNationalWonder": true,
+  "requiredTech": "Electricity",
+  "uniques": ["Gain a free [project limit] [in all cities]", "Only available <in cities without a [project limit]>", "Unsellable", "Will not be displayed in Civilopedia", "[+50]% [Science] [in all cities]", "Gain a free [Public School] [in all cities]"]
+},
+{
+  "name": "Cultural project",
+  "uniqueTo": "Turkmenistan",
+  "maintenance": 3,
+  "culture": 4,
+  "cost": 400,
+  "isNationalWonder": true,
+  "requiredTech": "Electricity",
+  "uniques": ["Gain a free [project limit] [in all cities]", "Only available <in cities without a [project limit]>", "Unsellable", "Will not be displayed in Civilopedia", "[+40]% [Culture]", "[+2 Culture] from all [Culture] buildings"]
+},
+{
+  "name": "Horesm Mosque",
+  "uniqueTo": "Horesm",
+  "maintenance": 2,
+  "replaces": "Temple"
+  "culture": 3,
+  "faith": 2,
+  "science": 2,
+  "cost": 140,
+  "requiredTech": "Theology",
+  "uniques": ["[+10]% [Science] [in this city]"]
+},
+{
+  "name": "40 judges Courthouse",
+  "uniqueTo": "Bukhara",
+  "culture": 2,
+  "gold": 2,
+  "cost": 100,
+  "requiredTech": "Mathematics",
+  "uniques": ["[+1 Gold] per [2] population [in this city]", "[+1 Gold] per [10] population [in this city]"]
+},
+{
+  "name": "Saturation granary",
+  "uniqueTo": "Kokand",
+  "replaces": "Granary",
+  "food": 4,
+  "cost": 60,
+  "requiredTech": "Pottery",
+  "uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]", "[+1 Food] from [Horses] tiles [in this city]"]
+},
+{
+  "name": "Stone Bridge"
+  "uniqueTo": "Karakhanids",
+  "culture": 1,
+  "production": 2,
+  "maintenance": 1,
+  "cost": 90,
+  "requiredTech": "Engineering",
+  "uniques": ["[+1 Production] from each Trade Route"]
+}
+]

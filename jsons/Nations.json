@@ -1,0 +1,213 @@
+[
+{
+  "name": "Kazakh Khanate",
+  "leaderName": "Abylai Khan",
+  "adjective": ["Kazakh"],
+  "preferredVictoryType": "Cultural",
+  
+  "startIntroPart1": " ",
+  "startIntroPart2": " ",
+  "declaringWar": "I'm sorry, but your policy does not meet my expectations.",
+  "attacked": "Hm, you are too naive!",
+  "defeated": "I hope posterity will remember me...",
+  "introduction": "Hello, I Kazakh Khan. Who are you?",
+  "neutralHello": "Hello, my friend",
+  "hateHello": "Hi",
+  "tradeRequest": "What is your opinion?",
+  "outerColor": [0, 148, 222],
+  "innerColor": [255, 255, 255],
+  "uniqueName": "National games"
+  "uniques": ["[+1 Culture] from every [Pasture]", "[+2 Culture] from every [Horses]", "[+1 Happiness] from every [Horses]", "[+1 Happiness] from every [Pasture]", "[+100]% Yield from every [Pasture]"],
+  "cities": ["Tashkent","Turkestan","Shymkent","Otrar","Talhys","Sygnak","Sayran","Syzak","Orenburg"]
+},
+{
+  "name": "Kazakhstan",
+  "leaderName": "Kassym Zhomart Tokayev"
+  "adjective": ["Kazakh"],
+  "preferredVictoryType": "Cultural",
+  "introduction": "Hello, i am Kazakh President - Kassym Zhomart Tokayev. Nice to meet you",
+  "startIntroPart1": " ",
+  "startIntroPart2": " ",
+  "neutralHello": "Salam",
+  "hateHello": "Hi",
+  "attacked": "I thought, you better",
+  "declaringWar": "You are so stupid",
+  "tradeRequest": "What do you mean about this?",
+  "outerColor": [1, 165, 200],
+  "innerColor": [254, 230, 0],
+  "uniqueName": "Cultural heritage",
+  "uniques": ["[+6 Culture] from every [Library] <after discovering [Archaeology]>", "[+6 Culture] from every [Mosque] <after discovering [Archaeology]>", "[+12 Culture] from every [National Epic] <after discovering [Archaeology]>"],
+  "cities": ["Astana", "Almaty", "Shymkent", "Turkestan", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Ust-Kamenogorsk", "Taldykorgan", "Kostanai", "Baikonyr"]
+},
+{
+  "name": "Turkic Khaganate",
+  "leaderName": "Tobo-Khagan",
+  "adjective": ["Turkic"],
+  "prefferedVictoryType": "Domination",
+  "introduction": "Hello, i am Turkic Khagan - Tobo. Who are you?",
+  "startIntroPart1": " ",
+  "startIntroPart2": " ",
+  "neutralHello": "Hello",
+  "hateHello": "Hi",
+  "attacked": "Do you want to see all Turkic strong?",
+  "declaringWar": "Now, you will die",
+  "tradeRequest": "Do you agree this?",
+  "outerColor": [130, 192, 228],
+  "innerColor": [5, 139, 13],
+  "uniqueName": "Turkic Expansion",
+  "uniques": ["[-25]% Unhappiness from [Population] [in all cities]", "[+30]% Strength <when fighting in [Enemy Land] tiles>"]
+  "cities": ["Turkic Court", "Suyab", "Min-Bulak", "Khara-Balgas", "Orkhon", "Taldy-Syy", "Ulan-Bator", "Tsanhar", "Tsatsarlag", "Khishid-Onder"]
+},
+{
+  "name": "Scythia",
+  "leaderName": "Tomirys",
+  "adjective": ["Scifian"],
+  "prefferedVictoryType": "Domination",
+  "introduction": "Greetings, I am a great conqueror and leader of all the Scythian people. I do not tolerate traitors, I hope you are not like that.",
+  "startIntroPart1": " ",
+  "startIntroPart2": " ",
+  "neutralHello": "Hello",
+  "hateHello": "You again?"
+  "attacked": "I didn't think, what you were one of those traitors.",
+  "declaringWar": "You didn't live up to my expectations",
+  "tradeRequest": "Hello, i am thinking you agree?"
+  "outerColor": [255, 178, 60]
+  "innerColor": [121, 0, 2]
+  "uniqueName": "Revenge to traitors",
+  "uniques": ["[+25]% Strength <when fighting in [Plains] tiles>", "\"Borrows\" city names from other civilizations in the game", "[+75]% Production when constructing [Mounted] units [in all cities]",
+"[+10]% Strength <when fighting in [Enemy Land] tiles>"],
+  "cities": ["Skifian Neapol"]
+},
+{
+  "name": "Kyrgyzstan",
+  "leaderName": "Muhammed-kyrgyz",
+  "adjective": ["Kyrgyz"],
+  "prefferedVictoryType": "Cultural",
+  "startBias": ["Mountain"],
+  "introduction": "Welcome to Kyrgyzstan, beautiful country with beautiful mountains. Who are you?",
+  "startIntroPart1": " ",
+  "startIntroPatt2": " ",
+  "neutralHello": "Welcome, my friend",
+  "hateHello": "Oh, this is you...",
+  "attacked": "What!? You are so evil",
+  "declaringWar": "I am sorry, but my People wants your defeat",
+  "tradeRequest": "From Kyrgyzstan, i will give you the most beautiful and the best items, if you agree this request",
+  "outerColor": [241, 21, 48]
+  "innerColor": [245, 225, 14]
+  "uniqueName": "Asian Switzerland",
+  "uniques": ["[+1 Culture, +1 Food] from [Land] tiles <with [1] to [6] neighboring [Mountain] tiles> [in all cities]"],
+  "cities": ["Bishkek", "Issyk-Kul", "Osh", "Karakol", "Zhalabat", "Naryn", "Talas", "Dzhalal-Abad", "Uzgen", "Isfana", "Orlovka", "Toktogul"]
+},
+{
+  "name": "Turkmenistan",
+  "leaderName": "Serdar Berdymuhamedov",
+  "adjective": ["Turkmen"],
+  "prefferedVictoryType": "Dominantion",
+  "introduction": "Wonderful, you are the same nation as we are. I am President of Turkmen nation - Serder Berdymuhamedov. I am very interested, who you are",
+  "startIntroPart1": " ",
+  "startIntroPart2": " ",
+  "attacked": "You underestimate my power and my army",
+  "declaringWar": "You will feel the whole nightmare of the dictatorial regime!",
+  "tradeRequest": "You see, how strong my army. if you agree this request, you will get army better me",
+  "outerColor": [14, 133, 65],
+  "innerColor": [255, 255, 255],
+  "uniqueName": "Great projects",
+  "uniques": ["Unical projects when unlock Electricity"]
+  "cities": ["Ashgabat", "Kenergench", "Annau", "Kerki", "Bayramali", "Kaka", "Mary", "Turkmenbashy", "Turkmenabad", "Balkanabat", "Sacar", "Sayat"]
+},
+{
+  "name": "Horesm",
+  "leaderName": "Tekesh",
+  "adjective": ["Horesm"],
+  "prefferedVictoryType": "Scientific",
+  "introduction": "Howdy, i am leader of Horesm people. Who are you?",
+  "startIntroPart1": " ",
+  "startIntroPatt2": " ",
+  "neutralHello": "Howdy",
+  "hateHello": "Why are you there?",
+  "attacked": "Wow, you are want, to get my territory?",
+  "declaringWar": "I am sorry, but my people want your defeat",
+  "tradeRequest": "Do you want, to agree this?",
+  "outerColor": [240, 240, 240]
+  "innerColor": [0, 154, 182]
+  "uniqueName": "Educated people",
+  "uniques": ["[+2 Science, +1 Culture] from all [Science] buildings", "[+15]% [Science] from every [Library]"],
+  "cities": ["Gurgandzh", "Isfahan", "Merv", "Balh", "Nishapur", "Rey", "Bukhara", "Djend", "Hiva"]
+},
+{
+  "name": "Bukhara",
+  "leaderName": "Shahmurad",
+  "adjective": ["Bukhar"],
+  "prefferedVictoryType": "Cultural",
+  "introduction": "Welcome to Bukhara, my freind. This city very beautiful and old. I hope, you will like this.",
+  "startIntroPart1": " ",
+  "startIntroPatt2": " ",
+  "neutralHello": "Hello",
+  "hateHello": "Oh, this is you...",
+  "attacked": "What!? You are think, what i will lose?",
+  "declaringWar": "You are not strong, this is your prize",
+  "tradeRequest": "Hello, i am think, you will agree this request?",
+  "outerColor": [0, 151, 48]
+  "innerColor": [249, 209, 0]
+  "uniqueName": "Money system",
+  "uniques": ["[+1 Gold] from all [All] buildings", "[+25]% [Gold] from every [Market]", "[+4 Culture] from every [Market]", "[+25]% [Gold] from every [Mint]", "[+4 Culture] from every [Mint]", "[+10]% [Culture] from every [Market]", "[+10]% [Culture] from every [Mint]"],
+  "cities": ["Bukhara", "Samarkand", "Miankal", "Kermine", "Karshi", "Huzar", "Kerki", "Chardjou", "Shahrisabz", "Gissar", "Fergana"]
+},
+{
+  "name": "Kokand",
+  "leaderName": "Narbuta-Biy",
+  "adjective": ["Kokand"],
+  "prefferedVictoryType": "Cultural",
+  "introduction": "Wow, You are stranger? I am Khan of greatest civilization - Kokand Khanate. Who are you?",
+  "startIntroPart1": " ",
+  "startIntroPatt2": " ",
+  "neutralHello": "Hello, you are long there?",
+  "hateHello": "I hope you leave soon",
+  "attacked": "Oh, you are so angry. I think your people don't like you",
+  "declaringWar": "Hah, ypu are to naive",
+  "tradeRequest": "I hope you agree this",
+  "outerColor": [115, 158, 69]
+  "innerColor": [247, 240, 109]
+  "uniqueName": "Big Cultural city",
+  "uniques": ["[+2 Culture] per [2] population [in all cities]"],
+  "cities": ["Kokand", "Margilan", "Fergana", "Chust", "Namangan", "Andizhan", "Angren", "Almalyk", "Hudzhand", "Osh", "Batken", "Aidarken", "Karakendzha"]
+},
+{
+  "name": "Karakhanids",
+  "leaderName": "Ali-Ibn-Suleiman",
+  "adjective": ["Karakhanid"],
+  "prefferedVictoryType": "Cultural",
+  "introduction": "Hello, i am leader of Karakhanid people. Who are you?",
+  "startIntroPart1": " ",
+  "startIntroPatt2": " ",
+  "neutralHello": "Hello",
+  "hateHello": "Oh, this is you",
+  "attacked": "Wow, you just attacked me? You deside to destroy your country.",
+  "declaringWar": "Sorry, but i deside this way",
+  "tradeRequest": "I think, you agree?",
+  "outerColor": [232, 168, 0]
+  "innerColor": [255, 255, 255]
+  "uniqueName": "Love for Motherland",
+  "uniques": ["[+30]% Strength <when fighting in [Friendly Land] tiles>"]
+  "cities": ["Kashgar", "Balasagun", "Karakorum", "Uzgent", "Samarkand", "Uqturpan", "Bukhara", "Kokand", "Karasahr", "Yarkant", "Hotan", "Olmalyq", "Hami"]
+},
+{
+  "name": "Golden Horde",
+  "leaderName": "Juchi",
+  "adjective": ["Golden Hordy"],
+  "prefferedVictoryType": "Domination",
+  "introduction": "Hello, my friend, I am Juchi, Greatest leader of Goldern Horde. Who are you?",
+  "startIntroPart1": " ",
+  "startIntroPatt2": " ",
+  "neutralHello": "Hello",
+  "hateHello": "Oh, this is my vassal",
+  "attacked": "My vassal, you decide lose your freedom?",
+  "declaringWar": "Time to pay tribute!",
+  "tradeRequest": "I calculate that it is beneficial for you",
+  "outerColor": [240, 240, 240]
+  "innerColor": [255, 0, 0]
+  "uniqueName": "Vassal's tribute",
+  "uniques": ["Earn [75]% of killed [Military] unit's [Cost] as [Gold]", "Earn [25]% of killed [Military] unit's [Cost] as [Culture]"]
+  "cities": ["Saray-Batu", "Bolgar", "Saray-Berke", "Kazan", "Hadji-Tarhan", "Solhat", "Uvek", "Saraychik", "Yassy", "Ak-Kerman", "Madjar", "Urgench", "Sygnak", "Derbent", "Djend", "Isker", "Chingi-Tura"]
+}
+]
