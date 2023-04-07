@@ -17,7 +17,7 @@
   "outerColor": [0, 148, 222],
   "innerColor": [255, 255, 255],
   "uniqueName": "Zheti Zhargy"
-  "uniqueText": "+1 [Culture] from each one recource Horse",
+//  "uniqueText": "+1 [Culture] from each one recource Horse",
   "uniques": ["[+1 Culture] <when above [1] [Horses]>","[+1 Culture] <when above [2] [Horses]>","[+1 Culture] <when above [3] [Horses]>",
   "[+1 Culture] <when above [4] [Horses]>","[+1 Culture] <when above [5] [Horses]>","[+1 Culture] <when above [6] [Horses]>",
   "[+1 Culture] <when above [7] [Horses]>","[+1 Culture] <when above [8] [Horses]>","[+1 Culture] <when above [9] [Horses]>",
@@ -32,7 +32,7 @@
   "[+1 Culture] <when above [34] [Horses]>","[+1 Culture] <when above [35] [Horses]>","[+1 Culture] <when above [36] [Horses]>",
   "[+1 Culture] <when above [37] [Horses]>","[+1 Culture] <when above [38] [Horses]>","[+1 Culture] <when above [39] [Horses]>",
   "[+1 Culture] <when above [40] [Horses]>","[+1 Culture] <when above [41] [Horses]>","[+1 Culture] <when above [42] [Horses]>",
-  "[+1 Culture] <when above [43] [Horses]>","[+1 Culture] <when above [44] [Horses]>","[+1 Culture] <when above [45] [Horses]>",
+  "[+1 Culture] <when above [43] [Horses]>","[+1 Culture] <when above [44] [Horses]>","[+1 Culture] <when above [0] [Horses]>",
   "[+1 Culture] <when above [46] [Horses]>","[+1 Culture] <when above [47] [Horses]>","[+1 Culture] <when above [48] [Horses]>",
   "[+1 Culture] <when above [49] [Horses]>","[+1 Culture] <when above [50] [Horses]>","[+1 Culture] <when above [51] [Horses]>",
   "[+1 Culture] <when above [42] [Horses]>","[+1 Culture] <when above [43] [Horses]>","[+1 Culture] <when above [43] [Horses]>",
@@ -74,8 +74,8 @@
   "innerColor": [254, 230, 0],
   "defeated": "This day will be very sad for kazakh people",
   "uniqueName": "National Games",
-  "uniqueText": "[[+1 Happiness] from every [Pasture]]
-  [[+1 Happiness, +1 Food] from [Horses] tiles [in all cities]]",
+//  "uniqueText": "[[+1 Happiness] from every [Pasture]]
+// [[+1 Happiness, +1 Food] from [Horses] tiles [in all cities]]",
   "uniques": ["[+1 Happiness, +1 Food] from [Horses] tiles [in all cities]", "[+1 Happiness] from every [Pasture]", "[+1 Culture] from every [Pasture] <with [1] to [6] neighboring [Yurt] tiles>",
   "[+1 Culture] from every [Pasture] <with [2] to [6] neighboring [Yurt] tiles>","[+1 Culture] from every [Pasture] <with [3] to [6] neighboring [Yurt] tiles>",
   "[+1 Culture] from every [Pasture] <with [4] to [6] neighboring [Yurt] tiles>","[+1 Culture] from every [Pasture] <with [5] to [6] neighboring [Yurt] tiles>",
