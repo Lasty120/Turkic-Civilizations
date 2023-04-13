@@ -7,14 +7,6 @@
   "maintenance": 1,
   "requiredTech": "Mathematics"
   "uniques": ["[+25]% [Culture] [in this city]", "[+25]% [Happiness] [in this city]", "[+1 Happiness] from every [Luxury resource]"]
-}
-{
-  "name": "Baikonyr",
-  "uniqueTo": "Kazakhstan",
-  "requiredTech": "Radar",
-  "maintenance": 3,
-  "uniques": ["[+25]% Production <when constructing [Spaceship part] units> [in this city]"],
-  "production": 4,
 },
 {
   "name": "Gathering of nomads",
@@ -26,57 +18,392 @@
   "uniques": ["Provides [6] [Horses]", "[+1 Culture] from every [Horses]"]
 },
 {
-  "name": "Tourist City",
+  "name": "Khazira",
+  "gold": 2,
   "uniqueTo": "Turkmenistan",
-  "gold": 4,
-  "cost": 600,
+  "replaces": "Bank",
+  "specialistSlots": {"Merchant": 1},
+  "hurryCostModifier": 15,
+  "faith": "3",
+  "culture": "1",
+  "percentStatBonus": {"gold": 25},
+  "requiredBuilding": "Market",
+  "requiredTech": "Banking",
+  "uniques": ["Gain [100] [Faith]"]
+	},
+{
+  "name": "Ancient Science project",
+  "uniqueTo": "Turkmenistan",
+  "cost": 93,
+  "science": 2,
   "isNationalWonder": true,
-  "requiredTech": "Radio",
-  "uniques": ["[+1 Gold] from all [Culture] buildings", "[+1 Gold] from all [Faith] buildings", "[+1 Gold] from all [Science] buildings", "[+1 Gold] from all [Gold] buildings", "[+4 Gold] from every [Wonder]", "Creates a [Tourist City tile] improvement on a specific tile"]
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus1]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the [Ancient era]>", "Provides [1] [Turkmenistan bonus1]", "[+1 Science] per [3] population [in all cities]"]
 },
 {
-  "name": "project limit",
-  "cost": 0,
-  "uniques": ["Will not be displayed in Civilopedia", "Unbuildable", "Unsellable", "Destroyed when the city is captured"]
-},
-{
-  "name": "Food project",
+  "name": "Ancient Production project",
   "uniqueTo": "Turkmenistan",
-  "food": 6,
-  "cost": 400,
+  "cost": 93,
+  "production": 2,
   "isNationalWonder": true,
-  "maintenance": 3,
-  "requiredTech": "Electricity",
-  "uniques": ["[50]% Food is carried over after population increases [in this city]", "[+20]% [Happiness]", "Gain a free [project limit] [in all cities]", "Only available <in cities without a [project limit]>", "Unsellable", "Will not be displayed in Civilopedia"]
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus1]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the [Ancient era]>", "Provides [1] [Turkmenistan bonus1]", "[+1 Production] per [4] population [in all cities]"]
 },
 {
   "name": "Military project",
   "uniqueTo": "Turkmenistan",
-  "maintenance": 3,
-  "cost": 400,
+  "cost": ,
   "isNationalWonder": true,
-  "requiredTech": "Electricity",
-  "uniques": ["Gain a free [project limit] [in all cities]", "Only available <in cities without a [project limit]>", "Unsellable", "Will not be displayed in Civilopedia", "All newly-trained [non-air] units [in all cities] receive the [Blitz] promotion", "[+15]% Production when constructing [Siege] units [in all cities]"]
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
 },
 {
-  "name": "Scintific project",
+  "name": "Faith project",
   "uniqueTo": "Turkmenistan",
-  "maintenance": 3,
-  "science": 4,
-  "cost": 400,
+  "cost": ,
   "isNationalWonder": true,
-  "requiredTech": "Electricity",
-  "uniques": ["Gain a free [project limit] [in all cities]", "Only available <in cities without a [project limit]>", "Unsellable", "Will not be displayed in Civilopedia", "[+50]% [Science] [in all cities]", "Gain a free [Public School] [in all cities]"]
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
 },
 {
-  "name": "Cultural project",
+  "name": "Culture project",
   "uniqueTo": "Turkmenistan",
-  "maintenance": 3,
-  "culture": 4,
-  "cost": 400,
+  "cost": ,
   "isNationalWonder": true,
-  "requiredTech": "Electricity",
-  "uniques": ["Gain a free [project limit] [in all cities]", "Only available <in cities without a [project limit]>", "Unsellable", "Will not be displayed in Civilopedia", "[+40]% [Culture]", "[+2 Culture] from all [Culture] buildings"]
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Food project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+me": "Science project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Production project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Military project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Faith project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Culture project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Food project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+me": "Science project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Production project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Military project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Faith project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Culture project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Food project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+me": "Science project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Production project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Military project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Faith project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Culture project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Food project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+me": "Science project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Production project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Military project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Faith project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Culture project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Food project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+me": "Science project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Production project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Military project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Faith project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Culture project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Food project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+me": "Science project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Production project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Military project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Faith project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Culture project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
+},
+{
+  "name": "Food project",
+  "uniqueTo": "Turkmenistan",
+  "cost": ,
+  "isNationalWonder": true,
+  "maintenance": 2,
+  "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
+  "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
 },
 {
   "name": "Horesm Mosque",
