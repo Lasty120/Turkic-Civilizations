@@ -91,6 +91,7 @@
   "uniques": ["Only available <without [Turkmenistan bonus1]>", "Unsellable", "Will not be displayed in Civilopedia",
   "Only available <starting from the [Ancient era]>", "Provides [1] [Turkmenistan bonus1]", "[+1 Food] per [4] population [in all cities]"]
 },
+{
   "name": "Classical Science project",
   "uniqueTo": "Turkmenistan",
   "cost": ,
@@ -144,6 +145,7 @@
   "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
   "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
 },
+{
   "name": "Science project",
   "uniqueTo": "Turkmenistan",
   "cost": ,
@@ -197,6 +199,7 @@
   "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
   "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
 },
+{
   "name": "Science project",
   "uniqueTo": "Turkmenistan",
   "cost": ,
@@ -250,6 +253,7 @@
   "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
   "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
 },
+{
   "name": "Science project",
   "uniqueTo": "Turkmenistan",
   "cost": ,
@@ -303,6 +307,7 @@
   "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
   "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
 },
+{
   "name": "Science project",
   "uniqueTo": "Turkmenistan",
   "cost": ,
@@ -356,6 +361,7 @@
   "uniques": ["Only available <without [Turkmenistan bonus]>", "Unsellable", "Will not be displayed in Civilopedia",
   "Only available <starting from the []>", "Provides [1] [Turkmenistan bonus]"]
 },
+{
   "name": "Science project",
   "uniqueTo": "Turkmenistan",
   "cost": ,
