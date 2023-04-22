@@ -5,7 +5,8 @@
   "food": 1,
   "turnsToBuild": 8,
   "techRequired": "Trapping",
-  "uniques": ["[+1 Food] <with [1] to [6] neighboring [Fresh water] tiles> <after discovering [Civil Service]>"],
+  "uniques": ["[+1 Food] <with [1] to [6] neighboring [Fresh water] tiles> <after discovering [Civil Service]>",
+  "Adjacent [Pasture] tiles gains +1 [Culture]"],
   "uniqueTo": "Kazakhstan"
 },
 {
