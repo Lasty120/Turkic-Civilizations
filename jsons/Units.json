@@ -52,6 +52,7 @@
   "uniqueTo": "Turkic Khaganate",
   "unitType": "Mounted",
   "movement": 4,
+  "replaces": "Knight",
   "strength": 24,
   "cost": 120,
   "requiredTech": "Chivalry",
@@ -59,6 +60,21 @@
   "upgradesTo": "Cavalry",
   "requiredResource": "Horses",
   "uniques": ["Can move after attacking"],
+  "attackSound": "horse"
+},
+{
+  "name": "Noyon",
+  "uniqueTo": "Karakhanids",
+  "unitType": "Mounted",
+  "movement": 4,
+  "replaces": "Knight",
+  "strength": 22,
+  "cost": 120,
+  "requiredTech": "Chivalry",
+  "obsoleteTech": "Military Science",
+  "upgradesTo": "Cavalry",
+  "requiredResource": "Horses",
+  "uniques": ["Can move after attacking", "[-15]% Strength for enemy [Military] units in adjacent [All] tiles"],
   "attackSound": "horse"
 },
 {
