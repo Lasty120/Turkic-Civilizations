@@ -225,7 +225,8 @@
   "innerColor": [255, 255, 255],
   "defeated": "My people will remember me. I know it",
   "uniqueName": "Pearl of Pearls",
-  "uniques": ["Free Techolody <upon gaining [Great Person]>"]
+  "uniqueText": "Free Techolody upon gaining Great Person",
+  "uniques": ["[Great Person] unit gains the [Great Person Technology] promotion"],
   "cities": ["Kashgar", "Balasagun", "Karakorum", "Uzgent", "Samarkand", "Uqturpan", "Bukhara", "Kokand", "Karasahr", "Yarkant", "Hotan", "Olmalyq", "Hami"]
 },
 {
