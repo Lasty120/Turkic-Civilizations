@@ -40,9 +40,9 @@
   "rangedStrength": 22,
   "range": 2,
   "cost": 120,
-  "requiredTech": "Industrialization",
+  "requiredTech": "Machinery",
   "requiredResource": "Horses",
-  "obsoleteTech": "Military Science",
+  "obsoleteTech": "Industrialization",
   "upgradesTo": "Gatling Gun",
   "uniques": ["Can move after attacking"],
   "attackSound": "horse"
