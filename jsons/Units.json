@@ -72,7 +72,7 @@
   "requiredTech": "Metal Casting",
   "obsoleteTech": "Rifling",
   "upgradesTo": "Rifleman",
-  "promotions": ["Gain [1] [Culture] <upon ending a turn in a [All] tile>"],
+  "uniques": ["Heal this unit by [7] HP <upon ending a turn in a [All] tile>"],
   "attackSound": "metalhit"
 },
 {
