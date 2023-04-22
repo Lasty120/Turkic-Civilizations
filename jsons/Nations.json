@@ -17,7 +17,7 @@
   "outerColor": [0, 148, 222],
   "innerColor": [255, 255, 255],
   "uniqueName": "Zheti Zhargy"
-  "uniqueText": "+1 [Culture] from each one recource Horse",
+"uniqueText": "+1 [Culture] from each one recource Horse",
   "uniques": ["[+1 Culture] <when above [1] [Horses]>","[+1 Culture] <when above [2] [Horses]>","[+1 Culture] <when above [3] [Horses]>",
   "[+1 Culture] <when above [4] [Horses]>","[+1 Culture] <when above [5] [Horses]>","[+1 Culture] <when above [6] [Horses]>",
   "[+1 Culture] <when above [7] [Horses]>","[+1 Culture] <when above [8] [Horses]>","[+1 Culture] <when above [9] [Horses]>",
@@ -74,8 +74,8 @@
   "innerColor": [254, 230, 0],
   "defeated": "This day will be very sad for kazakh people",
   "uniqueName": "National Games",
-//  "uniqueText": "[[+1 Happiness] from every [Pasture]]
-// [[+1 Happiness, +1 Food] from [Horses] tiles [in all cities]]",
+ "uniqueText": "[[+1 Happiness] from every [Pasture]]
+[[+1 Happiness, +1 Food] from [Horses] tiles [in all cities]]",
   "uniques": ["[+1 Happiness, +1 Food] from [Horses] tiles [in all cities]", "[+1 Happiness] from every [Pasture]", "[+1 Culture] from every [Pasture] <with [1] to [6] neighboring [Yurt] tiles>",
   "[+1 Culture] from every [Pasture] <with [2] to [6] neighboring [Yurt] tiles>","[+1 Culture] from every [Pasture] <with [3] to [6] neighboring [Yurt] tiles>",
   "[+1 Culture] from every [Pasture] <with [4] to [6] neighboring [Yurt] tiles>","[+1 Culture] from every [Pasture] <with [5] to [6] neighboring [Yurt] tiles>",
@@ -179,7 +179,7 @@
   "defeated": "Goodbye",
   "uniqueName": "Strength in Justice",
   "uniqueText": "[Gain 150-250 [Gold] upon city reaches each 5 population]
-  [+1 [Gold] per 2 population in all cities]",
+[+1 [Gold] per 2 population in all cities]",
   "uniques": ["Gain [150]-[250] [Gold] <in cities with at least [5] [Population]>","Gain [150]-[250] [Gold] <in cities with at least [10] [Population]>",
   "Gain [150]-[250] [Gold] <in cities with at least [15] [Population]>","Gain [150]-[250] [Gold] <in cities with at least [20] [Population]>",
   "Gain [150]-[250] [Gold] <in cities with at least [25] [Population]>","Gain [150]-[250] [Gold] <in cities with at least [30] [Population]>",
@@ -225,7 +225,6 @@
   "innerColor": [255, 255, 255],
   "defeated": "My people will remember me. I know it",
   "uniqueName": "Pearl of Pearls",
-  "uniqueText": "Free Techolody upon gaining Great Person",
   "uniques": ["Free Techolody <upon gaining [Great Person]>"]
   "cities": ["Kashgar", "Balasagun", "Karakorum", "Uzgent", "Samarkand", "Uqturpan", "Bukhara", "Kokand", "Karasahr", "Yarkant", "Hotan", "Olmalyq", "Hami"]
 },
