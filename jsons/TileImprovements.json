@@ -5,7 +5,7 @@
   "food": 1,
   "turnsToBuild": 8,
   "techRequired": "Trapping",
-  "uniques": [ ],
+  "uniques": ["[+1 Food] <with [1] to [6] neighboring [Fresh water] tiles> <after discovering [Civil Service]>"],
   "uniqueTo": "Kazakhstan"
 },
 {
@@ -15,12 +15,7 @@
   "faith": 1,
   "turnsToBuild": 8,
   "techRequired": "Theology",
-  "uniques": ["[+2 Culture] for each adjacent [Fort]", "Gives a defensive bonus of [30]%"],
+  "uniques": ["[+1 Culture] for each adjacent [Fort]", "Gives a defensive bonus of [30]%"],
   "uniqueTo": "Karakhanids"
 },
-{
-  "name": "Tourist City tile",
-  "terrainsCanBeBuiltOn": ["Land"],
-  "uniques": ["Cannot be built on [Mountain] tiles", "Removes removable features when built", "[+4 Gold] for each adjacent [Natural Wonder]", "[+3 Gold] for each adjacent [Coast]", "[+2 Gold] for each adjacent [Mountain]", "[+1 Gold] for each adjacent [Forest]", "[+2 Gold] for each adjacent [Jungle]", "[+4 Gold] for each adjacent [Great Improvement]"]
-}
 ]
