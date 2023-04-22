@@ -138,7 +138,8 @@
   "innerColor": [255, 255, 255],
   "defeated": "I did very big job for my people, now, I need to rest. May the earth mother bless your lands as she did mine",
   "uniqueName": "Ruhnama",
-  "uniques": ["[+10]% Great Person generation [in all cities] <upon gaining a [Great Person] unit>", "[+3 Happiness, +1 Culture] <upon gaining a [Great Person] unit>"]
+  "uniques": ["[+10]% Great Person generation [in all cities] <upon constructing [Turkmenistan bonus]>", "[+3 Happiness, +1 Culture] <upon constructing [Turkmenistan bonus]>",
+  "[Great Person] units gains the [Turkmenistan ability] promotion"]
   "cities": ["Ashgabat", "Kenergench", "Annau", "Kerki", "Bayramali", "Kaka", "Mary", "Turkmenbashy", "Turkmenabad", "Balkanabat", "Sacar", "Sayat"]
 },
 {
