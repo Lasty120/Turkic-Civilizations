@@ -5,7 +5,7 @@
   "uniqueTo": "Kazakh Khanate"
   "unitType": "Mounted",
   "movement": 4,
-  "strength": 28,
+  "strength": 27,
   "cost": 185,
   "requiredTech": "Metallurgy",
   "requiredResource": "Horses",
@@ -32,7 +32,7 @@
 },
 {
   "name": "Toygunlar",
-  "replaces": "Knight",
+  "replaces": "Crossbowman",
   "uniqueTo": "Turkic Khaganate",
   "unitType": "Mounted",
   "movement": 4,
@@ -40,10 +40,10 @@
   "rangedStrength": 22,
   "range": 2,
   "cost": 120,
-  "requiredTech": "Chivalry",
+  "requiredTech": "Industrialization",
   "requiredResource": "Horses",
   "obsoleteTech": "Military Science",
-  "upgradesTo": "Cavalry",
+  "upgradesTo": "Gatling Gun",
   "uniques": ["Can move after attacking"],
   "attackSound": "horse"
 },
@@ -52,7 +52,7 @@
   "uniqueTo": "Turkic Khaganate",
   "unitType": "Mounted",
   "movement": 4,
-  "strength": 25,
+  "strength": 24,
   "cost": 120,
   "requiredTech": "Chivalry",
   "obsoleteTech": "Military Science",
@@ -67,12 +67,12 @@
   "unitType": "Melee",
   "replaces": "Longswordsman",
   "movement": 3,
-  "strength": 24,
+  "strength": 23,
   "cost": 120,
   "requiredTech": "Metal Casting",
   "obsoleteTech": "Rifling",
   "upgradesTo": "Rifleman",
-  "promotions": ["Formation I"],
+  "promotions": ["Heal this unit by [7] HP <upon ending a turn in a [All] tile>"],
   "attackSound": "metalhit"
 },
 {
@@ -87,7 +87,8 @@
   "obsoleteTech": "Plastics",
   "upgradesTo": "Infantry",
   "attackSound": "artillery"
-  "uniques": ["Empire enters a [1]-turn Golden Age <upon defeating a [Military] unit>"]
+  "uniques": ["Empire enters a [1]-turn Golden Age <upon defeating a [Military] unit>",
+  "[+20]% Strength <after discovering [Replaceable Parts]>"]
 },
 {
   "name": "Emir's Army",
@@ -95,14 +96,15 @@
   "unitType": "Siege",
   "replaces": "Cannon",
   "movement": 2,
-  "strength": 24,
-  "rangedStrength": 24,
+  "strength": 21,
+  "rangedStrength": 23,
   "range": 2,
   "cost": 185,
   "requiredTech": "Chemistry",
   "obsoleteTech": "Dynamite",
   "upgradesTo": "Artillery",
-  "uniques": ["[+200]% Strength <vs cities> <when attacking>", "Must set up to ranged attack"]
+  "uniques": ["[+200]% Strength <vs cities> <when attacking>", "Must set up to ranged attack",
+  "[+17]% Strength <when defending>"]
 },
 {
   "name": "Golden Khan",
@@ -113,7 +115,7 @@
   "requiredTech": "Chivalry",
   "requiredResource": "Horses",
   "uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",
-  "Can instantly construct a [Citadel] improvement <by consuming this unit>",]
+  "Can instantly construct a [Fort] improvement <by consuming this unit>",]
 },
 {
   "name": "Ulan",
@@ -141,9 +143,8 @@
   "upgradesTo": "Cavalry",
   "requiredTech": "Chivalry",
   "requiredResource": "Horses",
-  "replaces": "Knight"
-  "promotions": ["Formation I"],
-  "uniques": ["Can move after attacking"]
+  "replaces": "Knight",
+  "uniques": ["Can move after attacking", "Gain [75] [Culture] <upon being defeated>"]
 },
 {
   "name": "Jalair",
@@ -153,7 +154,7 @@
   "cost": 120,
   "replaces": "Crossbowman",
   "strength": 15,
-  "rangedStrength": 22,
+  "rangedStrength": 20,
   "range": 2,
   "requiredTech": "Machinery",
   "requiredResource": "Horses",
