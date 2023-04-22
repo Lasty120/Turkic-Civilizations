@@ -137,11 +137,8 @@
   "outerColor": [14, 133, 65],
   "innerColor": [255, 255, 255],
   "defeated": "I did very big job for my people, now, I need to rest. May the earth mother bless your lands as she did mine",
-  "uniqueName": "Great Projects",
-  "uniqueText": "Unique projects upon entering each era",
-  "uniques": ["Provides [1] [Turkmenistan bonus] <starting from the [Ancient era]>","Provides [1] [Turkmenistan bonus] <starting from the [Classical era]>",
-   "Provides [1] [Turkmenistan bonus] <starting from the [Medieval era]>","Provides [1] [Turkmenistan bonus] <starting from the [Renaissance era]>","Provides [1] [Turkmenistan bonus] <starting from the [Industrial era]>",
-  "Provides [1] [Turkmenistan bonus] <starting from the [Modern era]>","Provides [1] [Turkmenistan bonus] <starting from the [Atomic era]>","Provides [1] [Turkmenistan bonus] <starting from the [Information era]>"]
+  "uniqueName": "Ruhnama",
+  "uniques": ["[+10]% Great Person generation [in all cities] <upon gaining a [Great Person] unit>", "[+3 Happiness, +1 Culture] <upon gaining a [Great Person] unit>"]
   "cities": ["Ashgabat", "Kenergench", "Annau", "Kerki", "Bayramali", "Kaka", "Mary", "Turkmenbashy", "Turkmenabad", "Balkanabat", "Sacar", "Sayat"]
 },
 {
@@ -161,7 +158,7 @@
   "innerColor": [0, 154, 182],
   "defeated": "Okay, I think I deserve it",
   "uniqueName": "Religious rise of Science",
-  "uniques": ["[+2 Science] from all [Faith] buildings", "[+15]% [Science] from every [Shrine]", "[+15]% [Science] from every [Temple]"],
+  "uniques": ["[+2 Science] from all [Faith] buildings", "[+10]% [Science] from every [Shrine]", "[+10]% [Science] from every [Temple]"],
   "cities": ["Gurgandzh", "Isfahan", "Merv", "Balh", "Nishapur", "Rey", "Bukhara", "Djend", "Hiva", "Samarkand", "Kashgar"]
 },
 {
