@@ -138,7 +138,14 @@
   "innerColor": [255, 255, 255],
   "defeated": "I did very big job for my people, now, I need to rest. May the earth mother bless your lands as she did mine",
   "uniqueName": "Ruhnama",
-  "uniques": ["Free [Great Artist] appear <upon entering the [Industrial era]>", ""]
+//  "uniqueText": "[+7% Great Person generation in all cities per each type of luxury resource]
+// [Free Great Artist appear upon entering the Industrial era]",
+  "uniques": ["Free [Great Artist] appear <upon entering the [Industrial era]>", "[+7]% Great Person generation [in all cities] <with [Citrus]>", "[+7]% Great Person generation [in all cities] <with [Copper]>", 
+  "[+7]% Great Person generation [in all cities] <with [Cotton]>", "[+7]% Great Person generation [in all cities] <with [Crab]>","[+7]% Great Person generation [in all cities] <with [Dyes]>","[+7]% Great Person generation [in all cities] <with [Furs]>",
+  "[+7]% Great Person generation [in all cities] <with [Gems]>","[+7]% Great Person generation [in all cities] <with [Gold Ore]>","[+7]% Great Person generation [in all cities] <with [Incense]>","[+7]% Great Person generation [in all cities] <with [Ivory]>",
+  "[+7]% Great Person generation [in all cities] <with [Jewelry]>","[+7]% Great Person generation [in all cities] <with [Marble]>","[+7]% Great Person generation [in all cities] <with [Pearls]>","[+7]% Great Person generation [in all cities] <with [Porcelain]>",
+  "[+7]% Great Person generation [in all cities] <with [Salt]>","[+7]% Great Person generation [in all cities] <with [Silk]>","[+7]% Great Person generation [in all cities] <with [Silver]>","[+7]% Great Person generation [in all cities] <with [Spices]>",
+  "[+7]% Great Person generation [in all cities] <with [Sugar]>","[+7]% Great Person generation [in all cities] <with [Truffles]>","[+7]% Great Person generation [in all cities] <with [Whales]>","[+7]% Great Person generation [in all cities] <with [Wine]>"]
   "cities": ["Ashgabat", "Kenergench", "Annau", "Kerki", "Bayramali", "Kaka", "Mary", "Turkmenbashy", "Turkmenabad", "Balkanabat", "Sacar", "Sayat"]
 },
 {
