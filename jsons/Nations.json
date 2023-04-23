@@ -138,10 +138,7 @@
   "innerColor": [255, 255, 255],
   "defeated": "I did very big job for my people, now, I need to rest. May the earth mother bless your lands as she did mine",
   "uniqueName": "Ruhnama",
-  "uniques": ["[+15]% Great Person generation [in all cities] <upon constructing [Monument] [in capital]>", "[+3 Happiness, +1 Culture] <upon constructing [Monument] [in capital]>",
-  "[+15]% Great Person generation [in all cities] <upon constructing [Amphitheater] [in capital]>", "[+3 Happiness, +1 Culture] <upon constructing [Amphitheater] [in capital]>",
-  "[+15]% Great Person generation [in all cities] <upon constructing [Opera House] [in capital]>", "[+3 Happiness, +1 Culture] <upon constructing [Opera House] [in capital]>",
-  "[+15]% Great Person generation [in all cities] <upon constructing [Museum] [in capital]>", "[+3 Happiness, +1 Culture] <upon constructing [Museum] [in capital]>",]
+  "uniques": ["Free [Great Artist] appear <upon entering the [Industrial era]>", ""]
   "cities": ["Ashgabat", "Kenergench", "Annau", "Kerki", "Bayramali", "Kaka", "Mary", "Turkmenbashy", "Turkmenabad", "Balkanabat", "Sacar", "Sayat"]
 },
 {
