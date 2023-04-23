@@ -34,6 +34,11 @@
   "uniques": ["Gain [100] [Faith]"]
 	},
 {
+  "name": "Turkmenistan bonus",
+  "cost": 1,
+  "uniques": ["Cannot be purchased", "Unbuildable", "Will not be displayed in Civilopedia"]
+},
+{
   "name": "Horezm Mosque",
   "uniqueTo": "Horezm",
   "maintenance": 2,
