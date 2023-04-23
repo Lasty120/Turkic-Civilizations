@@ -33,7 +33,7 @@
 {
   "name": "Toygunlar",
   "replaces": "Crossbowman",
-  "uniqueTo": "Turkic Khaganate",
+  "uniqueTo": "Gokturks",
   "unitType": "Mounted",
   "movement": 4,
   "strength": 20,
@@ -49,7 +49,7 @@
 },
 {
   "name": "Tujuye",
-  "uniqueTo": "Turkic Khaganate",
+  "uniqueTo": "Gokturks",
   "unitType": "Mounted",
   "movement": 4,
   "replaces": "Knight",
