@@ -139,9 +139,9 @@
   "defeated": "I did very big job for my people, now, I need to rest. May the earth mother bless your lands as she did mine",
   "uniqueName": "Ruhnama",
   "uniques": ["[+10]% Great Person generation [in all cities] <upon constructing [Turkmenistan bonus]>", "[+3 Happiness, +1 Culture] <upon constructing [Turkmenistan bonus]>",
-  "[Great Scientist] units gains the [Turkmenistan ability] promotion", "[Great Artist] units gains the [Turkmenistan ability] promotion",
-  "[Great Prophet] units gains the [Turkmenistan ability] promotion","[Great General] units gains the [Turkmenistan ability] promotion",
-  "[Great Engineer] units gains the [Turkmenistan ability] promotion","[Great Merchant] units gains the [Turkmenistan ability] promotion"]
+  "[Great Scientist] units gain the [Turkmenistan ability] promotion", "[Great Artist] units gain the [Turkmenistan ability] promotion",
+  "[Great Prophet] units gain the [Turkmenistan ability] promotion","[Great General] units gain the [Turkmenistan ability] promotion",
+  "[Great Engineer] units gain the [Turkmenistan ability] promotion","[Great Merchant] units gain the [Turkmenistan ability] promotion"]
   "cities": ["Ashgabat", "Kenergench", "Annau", "Kerki", "Bayramali", "Kaka", "Mary", "Turkmenbashy", "Turkmenabad", "Balkanabat", "Sacar", "Sayat"]
 },
 {
@@ -229,7 +229,7 @@
   "defeated": "My people will remember me. I know it",
   "uniqueName": "Pearl of Pearls",
   "uniqueText": "Free Techolody upon gaining Great Person",
-  "uniques": ["[Great Person] unit gains the [Great Person Technology] promotion"],
+  "uniques": ["[Great Person] units gain the [Great Person Technology] promotion"],
   "cities": ["Kashgar", "Balasagun", "Karakorum", "Uzgent", "Samarkand", "Uqturpan", "Bukhara", "Kokand", "Karasahr", "Yarkant", "Hotan", "Olmalyq", "Hami"]
 },
 {
