@@ -83,11 +83,11 @@
   "cities": ["Astana", "Almaty", "Shymkent", "Turkestan", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Ust-Kamenogorsk", "Taldykorgan", "Kostanai", "Baikonyr"]
 },
 {
-  "name": "Turkic Khaganate",
-  "leaderName": "Tobo-Khagan",
+  "name": "Gokturks",
+  "leaderName": "Bumin Qaghan",
   "adjective": ["Turkic"],
   "prefferedVictoryType": "Domination",
-  "introduction": "Hello, i am Tobo-Khagan - Khagan of Turkic people. Nice to meet you",
+  "introduction": "Hello, i am Bumin Qaghan - leader of Turkic people. Nice to meet you",
   "startIntroPart1": " ",
   "startIntroPart2": " ",
   "neutralHello": "Hello, do you want some Airan?",
@@ -238,10 +238,10 @@
 },
 {
   "name": "Golden Horde",
-  "leaderName": "Juchi",
+  "leaderName": "Oz Beg Khan",
   "adjective": ["Golden Hordy"],
   "prefferedVictoryType": "Domination",
-  "introduction": "Hello, my friend, I am Juchi, Greatest leader of Goldern Horde. Nice to meet you",
+  "introduction": "Hello, my friend, I am Oz Beg Khan, Greatest leader of Golden Horde. Nice to meet you",
   "startIntroPart1": " ",
   "startIntroPatt2": " ",
   "neutralHello": "Hello",
