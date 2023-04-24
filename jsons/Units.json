@@ -163,6 +163,20 @@
   "uniques": ["Can move after attacking", "Gain [75] [Culture] <upon being defeated>"]
 },
 {
+  "name": "Chirmesh",
+  "uniqueTo": "Volga Bulgaria",
+  "unitType": "Mounted",
+  "movement": 4,
+  "cost": 120,
+  "strength": 22,
+  "obsoleteTech": "Military Science",
+  "upgradesTo": "Cavalry",
+  "requiredTech": "Chivalry",
+  "requiredResource": "Horses",
+  "replaces": "Knight",
+  "uniques": ["Can move after attacking"]
+},
+{
   "name": "Jalair",
   "uniqueTo": "Timurids",
   "unitType": "Mounted",
