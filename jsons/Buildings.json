@@ -123,4 +123,14 @@
   "uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+1 Production] from [Plains] tiles <in tiles without [Hill]>"],
   "requiredTech": "Education"
 },
+{
+  "name": "Devil's Tower",
+  "uniqueTo": "Volga Bulgaria",
+  "cityStrength": 7,
+  "cityHealth": 50,
+  "hurryCostModifier": 25,
+  "requiredBuilding": "Walls",
+  "requiredTech": "Chivalry",
+  "uniques": ["Destroyed when the city is captured", "All newly-trained [Land] units [in this city] receive the [Scouting I] promotion"]
+},
 ]
