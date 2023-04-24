@@ -274,7 +274,7 @@
   "outerColor": [18, 107, 35],
   "innerColor": [223, 157, 71],
   "uniqueName": "Emir of the Slavs"
-//  "uniqueText": "+2 Science in capital from each one luxury resourse",
+  "uniqueText": "+2 Science in capital from each one luxury resourse",
   "uniques": ["[+2 Science] [in capital] <when above [0] [Furs]>", "[+2 Science] [in capital] <when above [0] [Sugar]>","[+2 Science] [in capital] <when above [0] [Marble]>",
   "[+2 Science] [in capital] <when above [0] [Cotton]>","[+2 Science] [in capital] <when above [0] [Wine]>","[+2 Science] [in capital] <when above [0] [Whales]>",
   "[+2 Science] [in capital] <when above [0] [Dyes]>","[+2 Science] [in capital] <when above [0] [Spices]>","[+2 Science] [in capital] <when above [0] [Pearls]>",
