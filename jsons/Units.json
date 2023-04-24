@@ -9,11 +9,11 @@
   "cost": 185,
   "requiredTech": "Metallurgy",
   "requiredResource": "Horses",
-  "uniques": ["Can move after attacking"],
+  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities>"],
   "upgradesTo": "Anti-Tank Gun",
   "obsoleteTech": "Combined Arms",
   "attackSound": "fire",
-  "promotions": ["Ignore terrain cost", "No defensive terrain bonus", "[-25]% Strength <vs cities>"],
+  "promotions": ["Ignore terrain cost"],
 },
 {
   "name": "Tank Ural",
@@ -176,8 +176,8 @@
   "requiredTech": "Chivalry",
   "requiredResource": "Horses",
   "replaces": "Knight",
-  "promotions": ["Chirmesh ability", "No defensive terrain bonus", "[-25]% Strength <vs cities>"],
-  "uniques": ["Can move after attacking"]
+  "promotions": ["Chirmesh ability"],
+  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities>"]
 },
 {
   "name": "Jalair",
