@@ -9,7 +9,7 @@
   "cost": 185,
   "requiredTech": "Metallurgy",
   "requiredResource": "Horses",
-  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities>"],
+  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
   "upgradesTo": "Anti-Tank Gun",
   "obsoleteTech": "Combined Arms",
   "attackSound": "fire",
@@ -44,7 +44,7 @@
   "requiredResource": "Horses",
   "obsoleteTech": "Industrialization",
   "upgradesTo": "Gatling Gun",
-  "uniques": ["Can move after attacking","No defensive terrain bonus", "[-25]% Strength <vs cities>"],
+  "uniques": ["Can move after attacking","No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
   "attackSound": "horse"
 },
 {
@@ -59,7 +59,7 @@
   "obsoleteTech": "Military Science",
   "upgradesTo": "Cavalry",
   "requiredResource": "Horses",
-  "uniques": ["Can move after attacking","No defensive terrain bonus", "[-25]% Strength <vs cities>"],
+  "uniques": ["Can move after attacking","No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
   "attackSound": "horse"
 },
 {
@@ -75,7 +75,7 @@
   "upgradesTo": "Cavalry",
   "requiredResource": "Horses",
   "uniques": ["Can move after attacking", "[-15]% Strength for enemy [Military] units in adjacent [All] tiles",
-  "No defensive terrain bonus", "[-25]% Strength <vs cities>"],
+  "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
   "attackSound": "horse"
 },
 {
@@ -148,7 +148,7 @@
   "requiredResource": "Horses",
   "requiredTech": "Chivalry",
   "promotions": ["Scouting I"]
-  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities>"]
+  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"]
 },
 {
   "name": "Czambul",
@@ -162,7 +162,7 @@
   "requiredTech": "Chivalry",
   "requiredResource": "Horses",
   "replaces": "Knight",
-  "uniques": ["Can move after attacking", "Gain [75] [Culture] <upon being defeated>", "No defensive terrain bonus", "[-25]% Strength <vs cities>"]
+  "uniques": ["Can move after attacking", "Gain [75] [Culture] <upon being defeated>", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"]
 },
 {
   "name": "Chirmesh",
@@ -177,7 +177,7 @@
   "requiredResource": "Horses",
   "replaces": "Knight",
   "promotions": ["Chirmesh ability"],
-  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities>"]
+  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"]
 },
 {
   "name": "Jalair",
@@ -193,6 +193,6 @@
   "requiredResource": "Horses",
   "obsoleteTech": "Industrialization",
   "upgradesTo": "Gatling Gun",
-  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities>"]
+  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"]
 }
 ]
