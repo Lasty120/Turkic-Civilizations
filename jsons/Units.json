@@ -13,7 +13,7 @@
   "upgradesTo": "Anti-Tank Gun",
   "obsoleteTech": "Combined Arms",
   "attackSound": "fire",
-  "promotions": ["Ignore terrain cost"],
+  "promotions": ["Ignore terrain cost", "No defensive terrain bonus", "[-25]% Strength <vs cities>"],
 },
 {
   "name": "Tank Ural",
@@ -44,7 +44,7 @@
   "requiredResource": "Horses",
   "obsoleteTech": "Industrialization",
   "upgradesTo": "Gatling Gun",
-  "uniques": ["Can move after attacking"],
+  "uniques": ["Can move after attacking","No defensive terrain bonus", "[-25]% Strength <vs cities>"],
   "attackSound": "horse"
 },
 {
@@ -59,7 +59,7 @@
   "obsoleteTech": "Military Science",
   "upgradesTo": "Cavalry",
   "requiredResource": "Horses",
-  "uniques": ["Can move after attacking"],
+  "uniques": ["Can move after attacking","No defensive terrain bonus", "[-25]% Strength <vs cities>"],
   "attackSound": "horse"
 },
 {
@@ -74,7 +74,8 @@
   "obsoleteTech": "Military Science",
   "upgradesTo": "Cavalry",
   "requiredResource": "Horses",
-  "uniques": ["Can move after attacking", "[-15]% Strength for enemy [Military] units in adjacent [All] tiles"],
+  "uniques": ["Can move after attacking", "[-15]% Strength for enemy [Military] units in adjacent [All] tiles",
+  "No defensive terrain bonus", "[-25]% Strength <vs cities>"],
   "attackSound": "horse"
 },
 {
@@ -82,12 +83,13 @@
   "uniqueTo": "Kyrgyzstan",
   "unitType": "Melee",
   "replaces": "Longswordsman",
-  "movement": 3,
+  "movement": 2,
   "strength": 23,
   "cost": 120,
   "requiredTech": "Metal Casting",
   "obsoleteTech": "Rifling",
   "upgradesTo": "Rifleman",
+  "requiredResource": "Iron",
   "uniques": ["Heal this unit by [7] HP <upon ending a turn in a [All] tile>"],
   "attackSound": "metalhit"
 },
@@ -146,7 +148,7 @@
   "requiredResource": "Horses",
   "requiredTech": "Chivalry",
   "promotions": ["Scouting I"]
-  "uniques": ["Can move after attacking"]
+  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities>"]
 },
 {
   "name": "Czambul",
@@ -160,7 +162,7 @@
   "requiredTech": "Chivalry",
   "requiredResource": "Horses",
   "replaces": "Knight",
-  "uniques": ["Can move after attacking", "Gain [75] [Culture] <upon being defeated>"]
+  "uniques": ["Can move after attacking", "Gain [75] [Culture] <upon being defeated>", "No defensive terrain bonus", "[-25]% Strength <vs cities>"]
 },
 {
   "name": "Chirmesh",
@@ -174,7 +176,7 @@
   "requiredTech": "Chivalry",
   "requiredResource": "Horses",
   "replaces": "Knight",
-  "promotions": ["Chirmesh ability"],
+  "promotions": ["Chirmesh ability", "No defensive terrain bonus", "[-25]% Strength <vs cities>"],
   "uniques": ["Can move after attacking"]
 },
 {
@@ -191,6 +193,6 @@
   "requiredResource": "Horses",
   "obsoleteTech": "Industrialization",
   "upgradesTo": "Gatling Gun",
-  "uniques": ["Can move after attacking"]
+  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities>"]
 }
 ]
