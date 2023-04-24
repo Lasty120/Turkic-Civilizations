@@ -125,6 +125,7 @@
 },
 {
   "name": "Devil's Tower",
+  "replaces": "Castle",
   "uniqueTo": "Volga Bulgaria",
   "cityStrength": 7,
   "cityHealth": 50,
