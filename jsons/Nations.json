@@ -151,7 +151,7 @@
 {
   "name": "Horezm",
   "leaderName": "Tekesh",
-  "adjective": ["Horesm"],
+  "adjective": ["Horezm"],
   "prefferedVictoryType": "Scientific",
   "introduction": "Howdy, i am leader of Horesm people and lands. Nice to meet you",
   "startIntroPart1": " ",
@@ -255,5 +255,34 @@
   "uniqueName": "Vassal's tribute",
   "uniques": ["Earn [15]% of killed [Military] unit's [Cost] as [Gold]", "[-10]% Unhappiness from [Population] [in annexed cities]"]
   "cities": ["Saray-Batu", "Bolgar", "Saray-Berke", "Kazan", "Hadji-Tarhan", "Solhat", "Uvek", "Saraychik", "Yassy", "Ak-Kerman", "Madjar", "Urgench", "Sygnak", "Derbent", "Djend", "Isker", "Chingi-Tura"]
-}
+},
+{
+  "name": "Volga Bulgaria",
+  "leaderName": "Almis Yyltavar",
+  "adjective": ["Tatarian"],
+  "preferredVictoryType": "Scientific",
+  
+  "startIntroPart1": " ",
+  "startIntroPart2": " ",
+  "declaringWar": "You have been a good friend, but you have not exceeded my expectations. I am sorry.",
+  "attacked": "Hmm, I think you're overestimating yourself. Who are you to declare war on me!?",
+  "defeated": "The Volga runs with blood. The only thing I can do now is to haunt you from the dead..",
+  "introduction": "Welcome to Saqilaba! If you have not heard the word of the Prophet, I will gladly tell it to you.",
+  "neutralHello": "Salam, my friend. Do you wanna tea?",
+  "hateHello": "Uh, hello?",
+  "tradeRequest": "Jewels from all over the Volga will come to you if you accept this trade offer.",
+  "outerColor": [18, 107, 35],
+  "innerColor": [223, 157, 71],
+  "uniqueName": "Emir of the Slavs"
+  "uniqueText": "+2 Science in capital from each one luxury resourse",
+  "uniques": ["[+2 Science] [in capital] <when above [] [Fura]>", "[+2 Science] [in capital] <when above [] [Sugar]>","[+2 Science] [in capital] <when above [] [Marble]>",
+  "[+2 Science] [in capital] <when above [] [Cotton]>","[+2 Science] [in capital] <when above [] [Wine]>","[+2 Science] [in capital] <when above [] [Whales]>",
+  "[+2 Science] [in capital] <when above [] [Dyes]>","[+2 Science] [in capital] <when above [] [Spices]>","[+2 Science] [in capital] <when above [] [Pearls]>",
+  "[+2 Science] [in capital] <when above [] [Gems]>","[+2 Science] [in capital] <when above [] [Silk]>","[+2 Science] [in capital] <when above [] [Jewelry]>",
+  "[+2 Science] [in capital] <when above [] [Gold Ore]>","[+2 Science] [in capital] <when above [] [Ivory]>","[+2 Science] [in capital] <when above [] [Porcelain]>",
+  "[+2 Science] [in capital] <when above [] [Silver]>","[+2 Science] [in capital] <when above [] [Incense]>","[+2 Science] [in capital] <when above [] [Citrus]>",
+  "[+2 Science] [in capital] <when above [] [Copper]>","[+2 Science] [in capital] <when above [] [Crab]>","[+2 Science] [in capital] <when above [] [Salt]>",
+  "[+2 Science] [in capital] <when above [] [Truffles]>",],
+  "cities": [ ]
+},
 ]
