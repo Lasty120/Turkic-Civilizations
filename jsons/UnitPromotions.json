@@ -1,7 +1,7 @@
 [
 {
-  "name": "Turkmenistan ability",
-  "uniques": ["Provides a [Turkmenistan bonus] in your first [1] cities for free"]
+  "name": "Chirmesh ability",
+  "uniques": ["[+20]% Strength <in [City center] tiles>","[+20]% Strength <with [1] to [6] neighboring [City center] tiles>"]
 },
 {
   "name": "Great Person Technology",
