@@ -196,6 +196,21 @@
   "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"]
 },
 {
+  "name": "Kosari",
+  "uniqueTo": "Volga Bulgaria",
+  "unitType": "Mounted",
+  "movement": 4,
+  "cost": 120,
+  "strength": 23,
+  "obsoleteTech": "Military Science",
+  "upgradesTo": "Cavalry",
+  "requiredTech": "Chivalry",
+  "requiredResource": "Horses",
+  "replaces": "Knight",
+  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "",
+  "Double movement in [All tiles"]
+},
+{
   "name": "Azerbaijanic Great Artist",
   "unitType": "Civilian",
   "uniqueTo": "Azerbaijan",
