@@ -323,4 +323,25 @@
   "Ashli","Samara","Bandja","Saratou","Sarysyn","Askel","Tulu","Sacksyn","As-kardy","Samur",
   "Tates","Arca","Kashan"]
 },
+{
+  "name": "Azerbaijan",
+  "leaderName": "Rasulzade",
+  "adjective": ["Azerbaijanic"],
+  "preferredVictoryType": "Cultural",
+  
+  "startIntroPart1": " ",
+  "startIntroPart2": " ",
+  "declaringWar": " ",
+  "attacked": " ",
+  "defeated": "The flag, once raised, will never fall! And the flag has been raised.. Remember that!",
+  "introduction": "I welcome you to my nation, Azerbaijan. I am Mammad Rasulzade, the leader.",
+  "neutralHello": "Hello, my dear friend",
+  "hateHello": "Oh, this is you",
+  "tradeRequest": "I guess, this trade request is ok for you.",
+  "outerColor": [0, 148, 222],
+  "innerColor": [255, 255, 255],
+  "uniqueName": "The Land of Fire",
+  "uniques": ["Great Artists can transfor to any Great People", "[Great Artist] is earned [+25]% faster"],
+  "cities": ["Baku"]
+},
 ]
