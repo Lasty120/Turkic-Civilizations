@@ -194,5 +194,18 @@
   "obsoleteTech": "Industrialization",
   "upgradesTo": "Gatling Gun",
   "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"]
-}
+},
+{
+  "name": "Azerbaijanic Great Artist",
+  "unitType": "Civilian",
+  "uniqueTo": "Azerbaijan",
+  "replaces": "Great Artist",
+  "uniques": [
+  "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+  "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+  "Great Person - [Culture]", "Unbuildable", "Uncapturable", "Will not be displayed in Civilopedia",
+  "Can transform to [Great Prophet]","Can transform to [Great Scientist]","Can transform to [Great Merchant]",
+  "Can transform to [Great General]","Can transform to [Great Engineer]"],
+  "movement": 2
+	},
 ]
