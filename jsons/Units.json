@@ -207,8 +207,8 @@
   "requiredTech": "Chivalry",
   "requiredResource": "Horses",
   "replaces": "Knight",
-  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "",
-  "Double movement in [All tiles"]
+  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "[+15]% Strength <with [1] to [6] neighboring [Mountain] tiles>",
+  "Double movement in [All] tiles <with [1] to [6] neighboring [Mountain] tiles>"]
 },
 {
   "name": "Azerbaijanic Great Artist",
