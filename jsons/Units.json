@@ -37,14 +37,14 @@
   "unitType": "Mounted",
   "movement": 4,
   "strength": 20,
-  "rangedStrength": 22,
+  "rangedStrength": 23,
   "range": 2,
   "cost": 120,
   "requiredTech": "Machinery",
   "requiredResource": "Horses",
   "obsoleteTech": "Industrialization",
   "upgradesTo": "Gatling Gun",
-  "uniques": ["Can move after attacking","No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
+  "uniques": ["Can move after attacking","No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "Requires a Horses],
   "attackSound": "horse"
 },
 {
@@ -59,7 +59,7 @@
   "obsoleteTech": "Military Science",
   "upgradesTo": "Cavalry",
   "requiredResource": "Horses",
-  "uniques": ["Can move after attacking","No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"],
+  "uniques": ["Can move after attacking","No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "[+10]% Strength <vs [Melee] units>"],
   "attackSound": "horse"
 },
 {
