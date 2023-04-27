@@ -176,8 +176,7 @@
   "requiredTech": "Chivalry",
   "requiredResource": "Horses",
   "replaces": "Knight",
-  "promotions": ["Chirmesh ability"],
-  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>"]
+  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[+50]% Strength <vs [Pikeman]>"]
 },
 {
   "name": "Jalair",
@@ -197,7 +196,7 @@
 },
 {
   "name": "Kosari",
-  "uniqueTo": "Volga Bulgaria",
+  "uniqueTo": "Azerbaijan",
   "unitType": "Mounted",
   "movement": 4,
   "cost": 120,
