@@ -192,7 +192,7 @@
   "Gain a free [Bukhara bonus3] [in capital] <in cities with at least [25] [Population]>","Gain a free [Bukhara bonus8] [in capital] <in cities with at least [30] [Population]>",
   "Gain a free [Bukhara bonus4] [in capital] <in cities with at least [35] [Population]>","Gain a free [Bukhara bonus9] [in capital] <in cities with at least [40] [Population]>",
   "Gain a free [Bukhara bonus5] [in capital] <in cities with at least [45] [Population]>","Gain a free [Bukhara bonus10] [in capital] <in cities with at least [50] [Population]>",
-  "[+1 Gold] per [2] population [in all cities]"],
+  "[+1 Gold] per [2] population [in all cities]", "Gain [100] [Gold] <upon founding a city>"],
   "cities": ["Bukhara", "Samarkand", "Miankal", "Kermine", "Karshi", "Huzar", "Kerki", "Chardjou", "Shahrisabz", "Gissar", "Fergana"]
 },
 {
