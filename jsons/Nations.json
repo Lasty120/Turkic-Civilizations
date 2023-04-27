@@ -341,7 +341,7 @@
   "outerColor": [101, 220, 255],
   "innerColor": [226, 8, 62],
   "uniqueName": "The Land of Fire",
-  "uniques": ["[Great Artist] can transform to any Great People", "[Great Artist] is earned [+25]% faster", "All newly-trained [Korsari] units [in capital] receive the [Korsari promotion] promotion"],
+  "uniques": ["[Great Artist] can transform to any Great People", "[Great Artist] is earned [+25]% faster", "All newly-trained [Korsari] units [in capital] receive the [Korsari ability] promotion"],
   "cities": ["Baku"]
 },
 ]
