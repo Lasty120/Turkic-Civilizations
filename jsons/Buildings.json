@@ -135,7 +135,7 @@
   "uniques": ["Destroyed when the city is captured", "All newly-trained [Land] units [in this city] receive the [Scouting I] promotion"]
 },
 {
-  "name": "Carpet-Weaving School",
+  "name": "Karkhane",
   "maintenance": 2,
   "replaces": "Workshop",
   "uniqueTo": "Azerbaijan",
