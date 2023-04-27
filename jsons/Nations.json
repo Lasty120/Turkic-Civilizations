@@ -338,8 +338,8 @@
   "neutralHello": "Hello, my dear friend",
   "hateHello": "Oh, this is you",
   "tradeRequest": "I guess, this trade request is ok for you.",
-  "outerColor": [226, 8, 62],
-  "innerColor": [255, 255, 255],
+  "outerColor": [101, 220, 255],
+  "innerColor": [226, 8, 62],
   "uniqueName": "The Land of Fire",
   "uniques": ["Great Artists can transfor to any Great People", "[Great Artist] is earned [+25]% faster"],
   "cities": ["Baku"]
