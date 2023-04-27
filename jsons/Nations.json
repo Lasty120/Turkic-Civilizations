@@ -341,7 +341,7 @@
   "outerColor": [101, 220, 255],
   "innerColor": [226, 8, 62],
   "uniqueName": "The Land of Fire",
-  "uniques": ["Great Artists can transfor to any Great People", "[Great Artist] is earned [+25]% faster"],
+  "uniques": ["Great Artists can transform to any Great People", "[Great Artist] is earned [+25]% faster"],
   "cities": ["Baku"]
 },
 ]
