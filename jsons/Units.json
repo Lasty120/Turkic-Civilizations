@@ -44,7 +44,7 @@
   "requiredResource": "Horses",
   "obsoleteTech": "Industrialization",
   "upgradesTo": "Gatling Gun",
-  "uniques": ["Can move after attacking","No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "Requires a Horses],
+  "uniques": ["Can move after attacking","No defensive terrain bonus", "[-25]% Strength <vs cities> <when attacking>", "Requires a [Horses]"],
   "attackSound": "horse"
 },
 {
