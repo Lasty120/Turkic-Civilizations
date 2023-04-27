@@ -176,7 +176,7 @@
   "requiredTech": "Chivalry",
   "requiredResource": "Horses",
   "replaces": "Knight",
-  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[+50]% Strength <vs [Pikeman]>"]
+  "uniques": ["Can move after attacking", "No defensive terrain bonus", "[+50]% Strength <vs [Pikeman] units>"]
 },
 {
   "name": "Jalair",
