@@ -134,4 +134,16 @@
   "requiredTech": "Chivalry",
   "uniques": ["Destroyed when the city is captured", "All newly-trained [Land] units [in this city] receive the [Scouting I] promotion"]
 },
+{
+  "name": "Carpet-Weaving School",
+  "maintenance": 2,
+  "replaces": "Workshop",
+  "uniqueTo": "Azerbaijan",
+  "production": 2,
+  "specialistSlots": {"Engineer": 1},
+  "hurryCostModifier": 20,
+  "percentStatBonus": {"production": 10},
+  "requiredTech": "Metal Casting"
+  "uniques": ["[+1 Gold] per [1] social policy adopted"],
+	},
 ]
