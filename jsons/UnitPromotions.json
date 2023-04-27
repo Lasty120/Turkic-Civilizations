@@ -6,5 +6,9 @@
 {
   "name": "Great Person Technology",
   "uniques": ["Free Technology"]
+},
+ {
+  "name": "Korsari ability",
+  "uniques": ["[+15]% Strength"]
 }
 ]
