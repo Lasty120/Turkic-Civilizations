@@ -141,9 +141,9 @@
   "uniqueTo": "Azerbaijan",
   "production": 2,
   "specialistSlots": {"Engineer": 1},
-  "hurryCostModifier": 20,
+  "cost": 100,
   "percentStatBonus": {"production": 10},
   "requiredTech": "Metal Casting"
-  "uniques": ["[+1 Gold] per [1] social policy adopted"],
+  "uniques": ["[+1 Gold] per [1] social policies adopted"],
 	},
 ]
