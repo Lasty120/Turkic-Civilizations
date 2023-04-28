@@ -324,9 +324,9 @@
   "Tates","Arca","Kashan"]
 },
 {
-  "name": "Azerbaijan",
-  "leaderName": "Rasulzade",
-  "adjective": ["Azerbaijanic"],
+  "name": "Seljuqs",
+  "leaderName": "Nizam al-Mulk",
+  "adjective": ["Seljuq"],
   "preferredVictoryType": "Cultural",
   
   "startIntroPart1": " ",
@@ -334,14 +334,15 @@
   "declaringWar": "Sorry, my friend, but my people want it.",
   "attacked": "What!? You think i am so weak!? HA! I will punish you!",
   "defeated": "The flag, once raised, will never fall! And the flag has been raised.. Remember that!",
-  "introduction": "I welcome you to my nation, Azerbaijan. I am Mammad Rasulzade, the leader.",
+  "introduction": "I welcome you to Seljuqs' land, my friens. I am Nizam al-Mulk, the leader.",
   "neutralHello": "Hello, my dear friend",
   "hateHello": "Oh, this is you",
   "tradeRequest": "I guess, this trade request is ok for you.",
   "outerColor": [101, 220, 255],
   "innerColor": [226, 8, 62],
-  "uniqueName": "The Land of Fire",
+  "uniqueName": "Book of Goverment",
   "uniques": ["[Great Artist] can transform to any Great People", "[Great Artist] is earned [+25]% faster", "All newly-trained [Korsari] units [in capital] receive the [Korsari ability] promotion"],
-  "cities": ["Baku"]
+  "cities": ["Isfahan","Hamadan","Merv","Rey","Nishapur","Kermanshah",
+  "Konya","Alanya","Sivas","Kayseri","Erzurum","Herat","Karaj","Tabriz","Shiraz","Ahvaz",$Qom","Ardabil","Kerman","Kashan"]
 },
 ]
