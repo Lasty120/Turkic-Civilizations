@@ -138,10 +138,10 @@
   "name": "Karkhane",
   "maintenance": 2,
   "replaces": "Workshop",
-  "uniqueTo": "Azerbaijan",
+  "uniqueTo": "Seljuqs",
   "production": 2,
   "specialistSlots": {"Engineer": 1},
-  "cost": 100,
+  "cost": 130,
   "percentStatBonus": {"production": 10},
   "requiredTech": "Metal Casting"
   "uniques": ["[+1 Gold] per [1] social policies adopted"],
