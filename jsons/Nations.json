@@ -79,7 +79,8 @@
   "uniques": ["[+1 Happiness, +1 Food] from [Horses] tiles [in all cities]", "[+1 Happiness] from every [Pasture]", "[+1 Culture] from every [Pasture] <with [1] to [6] neighboring [Yurt] tiles>",
   "[+1 Culture] from every [Pasture] <with [2] to [6] neighboring [Yurt] tiles>","[+1 Culture] from every [Pasture] <with [3] to [6] neighboring [Yurt] tiles>",
   "[+1 Culture] from every [Pasture] <with [4] to [6] neighboring [Yurt] tiles>","[+1 Culture] from every [Pasture] <with [5] to [6] neighboring [Yurt] tiles>",
-  "[+1 Culture] from every [Pasture] <with [6] to [6] neighboring [Yurt] tiles>"],
+  "[+1 Culture] from every [Pasture] <with [6] to [6] neighboring [Yurt] tiles>", "[+1 Food] from [Yurt] tiles [in all cities] <with [2] to [3] neighboring [Pasture] tiles>",
+  "[+2 Food] from [Yurt] tiles [in all cities] <with [4] to [5] neighboring [Pasture] tiles>","[+3 Food] from [Yurt] tiles [in all cities] <with [6] to [6] neighboring [Pasture] tiles>",],
   "cities": ["Astana", "Almaty", "Shymkent", "Turkestan", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Ust-Kamenogorsk", "Taldykorgan", "Kostanai", "Baikonyr"]
 },
 {
