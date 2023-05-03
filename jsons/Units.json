@@ -211,7 +211,7 @@
 {
   "name": "Azerbaijanic Great Artist",
   "unitType": "Civilian",
-  "uniqueTo": "Azerbaijan",
+  "uniqueTo": "Seljuqs",
   "replaces": "Great Artist",
   "uniques": [
   "Empire enters a [8]-turn Golden Age <by consuming this unit>",
