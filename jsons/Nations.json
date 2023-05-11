@@ -121,7 +121,7 @@
   "innerColor": [245, 225, 14],
   "defeated": "The end of Kyrgyzstan is a sad day, for everyone",
   "uniqueName": "Asian Switzerland",
-  "uniques": ["[+1 Culture] from [Land] tiles <with [1] to [6] neighboring [Mountain] tiles> [in all cities]", "[+1 Culture, +1 Faith] from [Horses] tiles [in all cities]"],
+  "uniques": ["[+1 Culture] from [Land] tiles <with [1] to [6] neighboring [Mountain] tiles> [in all cities]", "[+1 Food] from [Horses] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>"],
   "cities": ["Bishkek", "Issyk-Kul", "Osh", "Karakol", "Zhalabat", "Naryn", "Talas", "Dzhalal-Abad", "Uzgen", "Isfana", "Orlovka", "Toktogul"]
 },
 {
