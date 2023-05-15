@@ -96,7 +96,7 @@
   "culture": 1,
   "faith": 2,
   "science": 2,
-  "cost": 140,
+  "cost": 100,
   "requiredTech": "Theology",
   "uniques": ["[+10]% [Science] [in this city]"]
 },
