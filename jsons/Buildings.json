@@ -26,12 +26,12 @@
   "replaces": "Bank",
   "specialistSlots": {"Merchant": 1},
   "hurryCostModifier": 15,
-  "faith": "3",
+  "faith": "2",
   "culture": "1",
   "percentStatBonus": {"gold": 25},
   "requiredBuilding": "Market",
   "requiredTech": "Banking",
-  "uniques": ["Gain [100] [Faith]"]
+  "uniques": ["[+1 Faith] from [Plains] tiles [in all cities]"]
 	},
 {
   "name": "Turkmenistan bonus",
