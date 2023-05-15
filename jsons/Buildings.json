@@ -8,7 +8,7 @@
   "maintenance": 1,
   "requiredTech": "Mathematics"
   "uniques": ["[+25]% [Culture] [in this city]", "[+1 Happiness] from [Luxury resource] tiles [in this city]",
-  "Can only be built [in annexed cities]", "Remove extra unhappiness from annexed cities"]
+  "Can only be built [in all cities]", "Remove extra unhappiness from annexed cities"]
 },
 {
   "name": "Gathering of nomads",
