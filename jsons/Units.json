@@ -99,7 +99,7 @@
   "replaces": "Rifleman",
   "movement": 3,
   "strength": 36,
-  "cost": 320,
+  "cost": 250,
   "requiredTech": "Rifling",
   "obsoleteTech": "Plastics",
   "upgradesTo": "Infantry",
