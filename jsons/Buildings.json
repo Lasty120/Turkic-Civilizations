@@ -1,0 +1,149 @@
+[
+{
+  "name": "Biev Courthouse",
+  "uniqueTo": "Kazakh Khanate",
+  "culture": 2,
+  "replaces": "Courthouse",
+  "cost": 100,
+  "maintenance": 1,
+  "requiredTech": "Mathematics"
+  "uniques": ["[+25]% [Culture] [in this city]", "[+1 Happiness] from [Luxury resource] tiles [in this city]",
+  "Can only be built [in all cities]", "Remove extra unhappiness from annexed cities"]
+},
+{
+  "name": "Gathering of nomads",
+  "uniqueTo": "Kyrgyzstan",
+  "culture": 5,
+  "cost": 210,
+  "isNationalWonder": true,
+  "requiredTech": "Printing Press",
+  "uniques": ["Provides [6] [Horses]", "[+1 Culture] from every [Horses]"]
+},
+{
+  "name": "Khazira",
+  "gold": 2,
+  "uniqueTo": "Turkmenistan",
+  "replaces": "Bank",
+  "specialistSlots": {"Merchant": 1},
+  "hurryCostModifier": 15,
+  "faith": "2",
+  "culture": "1",
+  "percentStatBonus": {"gold": 25},
+  "requiredBuilding": "Market",
+  "requiredTech": "Banking",
+  "uniques": ["[+1 Faith] from [Plains] tiles [in all cities]"]
+	},
+{
+  "name": "Turkmenistan bonus",
+  "cost": 1,
+  "uniques": ["Cannot be purchased", "Unbuildable", "Will not be displayed in Civilopedia"]
+},
+{
+  "name": "Bukhara bonus1",
+  "cost": 1,
+  "uniques": ["Cannot be purchased", "Unbuildable", "Will not be displayed in Civilopedia", "Gain [150]-[250] [Gold] <upon founding a city>"]
+},
+{
+  "name": "Bukhara bonus2",
+  "cost": 1,
+  "uniques": ["Cannot be purchased", "Unbuildable", "Will not be displayed in Civilopedia", "Gain [150]-[250] [Gold] <upon founding a city>"]
+},
+{
+  "name": "Bukhara bonus3",
+  "cost": 1,
+  "uniques": ["Cannot be purchased", "Unbuildable", "Will not be displayed in Civilopedia", "Gain [150]-[250] [Gold] <upon founding a city>"]
+},
+{
+  "name": "Bukhara bonus4",
+  "cost": 1,
+  "uniques": ["Cannot be purchased", "Unbuildable", "Will not be displayed in Civilopedia", "Gain [150]-[250] [Gold] <upon founding a city>"]
+},
+{
+  "name": "Bukhara bonus5",
+  "cost": 1,
+  "uniques": ["Cannot be purchased", "Unbuildable", "Will not be displayed in Civilopedia", "Gain [150]-[250] [Gold] <upon founding a city>"]
+},
+{
+  "name": "Bukhara bonus6",
+  "cost": 1,
+  "uniques": ["Cannot be purchased", "Unbuildable", "Will not be displayed in Civilopedia", "Gain [150]-[250] [Gold] <upon founding a city>"]
+},
+{
+  "name": "Bukhara bonus7",
+  "cost": 1,
+  "uniques": ["Cannot be purchased", "Unbuildable", "Will not be displayed in Civilopedia", "Gain [150]-[250] [Gold] <upon founding a city>"]
+},
+{
+  "name": "Bukhara bonus8",
+  "cost": 1,
+  "uniques": ["Cannot be purchased", "Unbuildable", "Will not be displayed in Civilopedia", "Gain [150]-[250] [Gold] <upon founding a city>"]
+},
+{
+  "name": "Bukhara bonus9",
+  "cost": 1,
+  "uniques": ["Cannot be purchased", "Unbuildable", "Will not be displayed in Civilopedia", "Gain [150]-[250] [Gold] <upon founding a city>"]
+},
+{
+  "name": "Bukhara bonus10",
+  "cost": 1,
+  "uniques": ["Cannot be purchased", "Unbuildable", "Will not be displayed in Civilopedia", "Gain [150]-[250] [Gold] <upon founding a city>"]
+},
+{
+  "name": "Horezm Mosque",
+  "uniqueTo": "Horezm",
+  "maintenance": 2,
+  "replaces": "Temple"
+  "culture": 1,
+  "faith": 2,
+  "science": 2,
+  "cost": 100,
+  "requiredTech": "Theology",
+  "uniques": ["[+10]% [Science] [in this city]"]
+},
+{
+  "name": "40 judges Courthouse",
+  "uniqueTo": "Bukhara",
+  "culture": 2,
+  "replaces": "Courthouse",
+  "gold": 2,
+  "cost": 100,
+  "requiredTech": "Mathematics",
+  "uniques": ["[+1 Gold] per [3] population [in this city]", "[+1 Gold] per [6] population [in this city]",
+  "Can only be built [in all cities]","Remove extra unhappiness from annexed cities",]
+},
+{
+  "name": "Maydan",
+  "replaces": "University",
+  "uniqueTo": "Timurids",
+  "cost": 120,
+  "gold": 1,
+  "percentStatBonus": {"science": 33},
+  "specialistSlots": {"Scientist": 2},
+  "requiredBuilding": "Library",
+  "uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+1 Production] from [Plains] tiles <in tiles without [Hill]>"],
+  "requiredTech": "Education"
+},
+{
+  "name": "Devil's Tower",
+  "replaces": "Castle",
+  "uniqueTo": "Volga Bulgaria",
+  "cityStrength": 7,
+  "cityHealth": 50,
+  "hurryCostModifier": 25,
+  "requiredBuilding": "Walls",
+  "requiredTech": "Chivalry",
+  "uniques": ["Destroyed when the city is captured", "All newly-trained [Land] units [in this city] receive the [Scouting I] promotion"]
+},
+{
+  "name": "Karkhane",
+  "maintenance": 2,
+  "replaces": "Workshop",
+  "uniqueTo": "Seljuqs",
+  "production": 2,
+  "specialistSlots": {"Engineer": 1},
+  "cost": 130,
+  "percentStatBonus": {"production": 10},
+  "requiredTech": "Metal Casting"
+  "uniques": ["[+1 Gold] per [1] social policies adopted"],
+	},
+]
