@@ -191,7 +191,7 @@
   "requiredResource": "Horses",
   "obsoleteTech": "Industrialization",
   "upgradesTo": "Gatling Gun",
-  "uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "Requires a [Horses]"]
+  "uniques": ["Can move after attacking", "Requires a [Horses]"]
 },
 {
   "name": "Kosari",
